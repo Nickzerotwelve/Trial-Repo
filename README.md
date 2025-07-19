@@ -1,4 +1,4 @@
-Learning Git and Github
+# Learning Git and Github basics
 
 
 Git commit, push and pull
